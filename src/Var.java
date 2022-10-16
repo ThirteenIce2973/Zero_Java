@@ -1,7 +1,7 @@
 /**
- * @Author: HoBoxz (Justin Ho).
+ * @Author: HoBoxz (Justin Ho). Site https://github.com/HoBoxz
  * @Contact: E-mail at 2713281947@qq.com.
- * @Website: Github https://github.com/HoBoxz.
+ * @Website: Repositories https://github.com/HoBoxz/Zero_Java.
  * @Description: The code for the Chapter 02 of Java Zero's study.
  * @Last_Study: P70 - https://www.bilibili.com/video/BV1Rx411876f?p=230&spm_id_from=pageDriver&vd_source=f1611b7fcea8c4a28d295ef2ab3c90df 
  */
