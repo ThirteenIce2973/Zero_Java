@@ -3,7 +3,7 @@
  * @Contact: E-mail at 2713281947@qq.com.
  * @Website: Github https://github.com/HoBoxz.
  * @Description: The code for the Chapter 01 of Java Zero's study.
- * @Last_Study: P60 - https://www.bilibili.com/video/BV1Rx411876f?p=219&vd_source=f1611b7fcea8c4a28d295ef2ab3c90df.
+ * @LastStudy: P60 - https://www.bilibili.com/video/BV1Rx411876f?p=219&vd_source=f1611b7fcea8c4a28d295ef2ab3c90df.
  */
 
 public class Indentifier { //声明了一个类名
