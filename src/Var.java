@@ -9,7 +9,7 @@
 public class Var {
 	
 	int z = 114511; // 声明z为成员变量，在方法体外，而方法体内无法访问。
-
+	
     public static void main(String[] args) {
 
 		int a = 114514; 
